@@ -1,5 +1,5 @@
 ---
-title: Example Reference - Srpski
+title: Example Reference - English
 description: A reference page in my new Starlight docs site.
 ---
 

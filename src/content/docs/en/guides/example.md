@@ -1,5 +1,5 @@
 ---
-title: Example Guide - Srpski
+title: Example Guide - English
 description: A guide in my new Starlight docs site.
 ---
 
