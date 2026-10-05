@@ -1,0 +1,7 @@
+{
+  "name": "sahdata",
+  "compatibility_date": "2026-10-05", // Update to the day you deploy
+  "assets": {
+    "directory": "./dist",
+  }
+}
